@@ -29,7 +29,7 @@ int main() {
     setvbuf(stdin, NULL, _IONBF, 0);
     setvbuf(stdout, NULL, _IONBF, 0);
 
-    char secret[] = "LSEC{3xpl01t1ng_f0rm4t_str1ngs}";
+    char secret[] = "raffa moreira c ta sabendo bcraff bro o criador do trap brasileiro 777";
 
     printf("[*] secret: ");
 
